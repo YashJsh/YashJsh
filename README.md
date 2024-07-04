@@ -23,7 +23,7 @@
 - 🔭 Currently working on **Full Stack Web Develpment Projects**
 - 🌱 Currently learning **React and Node JS**
 - ⚡ Fun fact: I go by **ViperX** in-game and **Triton** when coding!
-- 📫 How to reach me **yash,jsh0@gmail.com**
+- 📫 How to reach me **yash.jsh0@gmail.com**
 
 
 <h2 align="center">
