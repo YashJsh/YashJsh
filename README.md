@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp" width="55">, I'm Yash Joshi</h1>
 <p align="center">
  <a href="https://github.com/harshitwaldia/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+ML+Enthusiast;MLOps+Explorer;Deep+Learning+Adventurer;Quantum+Entanglement+Evangelist;&center=true&width=600&height=80">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Development+Enthusiast;Web+Explorer;Learning+Adventurer;&center=true&width=600&height=80">
 </a>
 </p>
 <h2 align="center"> <img src="https://media.tenor.com/8OPCLlcaQoMAAAAj/cartoon-xolo.gif" width="35"> Computer Science Maverick 🤖</h2>
