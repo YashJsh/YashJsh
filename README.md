@@ -87,13 +87,33 @@
 </p>
 <br>
 <!-- Frontend Development Tools -->
-<h2 align="center" class="badge-header"><img src="https://media.tenor.com/WQfHotAE4LIAAAAi/ryzim-ryzim-records.gif" width="80">Frontend Tools : </h2>
+<!-- Frontend Development Tools -->
+<h2 align="center" class="badge-header"><img src="https://media.tenor.com/WQfHotAE4LIAAAAi/ryzim-ryzim-records.gif" width="80">Frontend Tools & Frameworks : </h2>
 <p align="center">
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" height="30" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="30" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/VSCode-%23007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" height="30" />
   </a>
 </p>
-<br>
+
+
