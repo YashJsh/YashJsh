@@ -115,5 +115,33 @@
     <img align="center" src="https://img.shields.io/badge/VSCode-%23007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" height="30" />
   </a>
 </p>
+<br>
+
+<!-- Backend Development Tools -->
+<h2 align="center" class="badge-header"><img src="https://media.tenor.com/f2seOEBW-_MAAAAi/coding.gif" width="80">Backend Tools & Frameworks : </h2>
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" height="30" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="30" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" height="30" />
+  </a>
+  <a href="https://cloudflare.com/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" height="30" />
+  </a>
+  <a href="https://jwt.io/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" height="30" />
+  </a>
+</p>
+
 
 
