@@ -6,21 +6,7 @@ I build things.
 ---
 
 ### Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="28" alt="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" />
-</p>
-
----
-
-### GitHub activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YashJsh)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,typescript,docker,mongodb,react,nextjs,)](https://skillicons.dev)
 ---
 
 ### Contact
