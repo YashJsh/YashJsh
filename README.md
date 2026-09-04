@@ -25,6 +25,7 @@ I work across the stack, with a focus on APIs, services, databases, and the arch
 - A system designed to explore distributed architecture and real-world backend concerns
 
 ### Lobable
+*An AI-powered website builder.*
 
 - A prompt-to-website workflow for generating web experiences with AI
 - The full-stack product flow, from user input to generated output
