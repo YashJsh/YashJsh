@@ -20,15 +20,12 @@ I work across the stack, with a focus on APIs, services, databases, and the arch
 ### Perpetual Exchange
 *A microservice-based trading system.*
 
-**What I built**
 - Independent services with clear responsibilities and boundaries
 - Backend APIs and data flows for exchange operations
 - A system designed to explore distributed architecture and real-world backend concerns
 
 ### Lobable
-*An AI-powered website builder.*
 
-**What I built**
 - A prompt-to-website workflow for generating web experiences with AI
 - The full-stack product flow, from user input to generated output
 - An application for exploring practical AI-assisted product development
